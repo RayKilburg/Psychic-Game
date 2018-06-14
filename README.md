@@ -1,4 +1,6 @@
 # Psychic-Game
 
-Guess what letter the computer picked.
-You have 8 chances to get it right before the game ends.
+The computer picks a random letter (a-z).
+You have to guess what letter it picked.
+You have 9 chances to guess the letter.
+Good Luck.
